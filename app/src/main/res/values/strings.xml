@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Servicano</string>
+    <string name="TIMER_NOTIFICATION_CHANNEL_ID">TimerChannel</string>
+</resources>

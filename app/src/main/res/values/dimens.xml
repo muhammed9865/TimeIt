@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="et_box_radius">29dp</dimen>
+    <dimen name="button_width">208dp</dimen>
+    <dimen name="button_height">64dp</dimen>
+    <dimen name="button_radius">43dp</dimen>
+    <dimen name="box_width">111dp</dimen>
+    <dimen name="box_height">64dp</dimen>
+    <dimen name="box_text_size">50sp</dimen>
+</resources>
